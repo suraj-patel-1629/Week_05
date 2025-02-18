@@ -28,7 +28,7 @@ public class ModifyCSVFIle {
             String depar ="IT";
 
             while((row=reader.readNext())!=null){
-                if(row[2].equals(depar)){
+                if(row[2].equalsIgnoreCase(depar)){
                     String newSalary = String.valueOf(Double.parseDouble(row[3])+(Double.parseDouble(row[3])*10/100.0));
                     row[3]=newSalary;
                 }
