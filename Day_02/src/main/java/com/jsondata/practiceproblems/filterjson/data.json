@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sejal",
+    "email": "Sejal@example.com",
+    "age": 22,
+    "subjects": ["Math", "Physics", "English"]
+  },
+  {
+    "name": "vivek",
+    "email": "vivek@example.com",
+    "age": 21,
+    "subjects": ["Hindi", "History"]
+  },
+  {
+    "name": "Suraj",
+    "email": "Suraj@example.com",
+    "age": 21,
+    "subjects": ["Computer Science", "maths"]
+  },
+  {
+    "name": "Pratham",
+    "email": "Pratham@example.com",
+    "age": 27,
+    "subjects": ["Computer Science", "English"]
+  },
+  {
+    "name": "Tikesh",
+    "email": "Tikesh@example.com",
+    "age": 26,
+    "subjects": ["Computer Science", "History"]
+  }
+]
