@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Suraj",
+    "email": "Suraj@example.com",
+    "age": 22,
+    "subjects": ["Math", "Physics", "English"]
+  },
+  {
+    "name": "Pratham",
+    "email": "Pratham@example.com",
+    "age": 21,
+    "subjects": ["Computer Science", "History"]
+  }
+]
